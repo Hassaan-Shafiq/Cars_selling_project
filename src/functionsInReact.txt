@@ -1,0 +1,24 @@
+
+//Method 1
+function name(){
+
+    return abc
+}
+
+
+//Method 2
+
+const name = () =>{
+    return abxc
+}
+
+
+class name extends Component{
+    state = {
+
+    }
+
+    render(){
+        return abc
+    }
+}
