@@ -16,19 +16,14 @@ import AdminUpdatePage from './AdminUpdatePage';
 import UserNewCar from './UserNewCar';
 import UserMain from './UserMain';
 import AdminMain from './AdminMain';
-import TerminalPractice from './TerminalPractice';
-import Appp from './Appp';
-import Buyy from './Buyy';
-import Matchh from './Matchh';
+
 function App() {
   return (
     <div>
 
-{/*       
-   <AdminMain/> */}
 <UserMain/>
 
-               
+{/* <AdminMain/>                */}
        </div>
   );
 }
