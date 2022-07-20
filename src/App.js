@@ -8,14 +8,7 @@ import Loginform from './Loginform';
 import Signupform from './Signupform';
 import Footer from './Footer';
 import NewCars from './NewCars';
-import AdminHome from './AdminHome';
-import AdminNav from './AdminNav';
-import AdminDeletePage from './AdminDeletePage';
-import AdminReadPage from './AdminReadPage';
-import AdminUpdatePage from './AdminUpdatePage';
-import UserNewCar from './UserNewCar';
 import UserMain from './UserMain';
-import AdminMain from './AdminMain';
 
 function App() {
   return (
@@ -23,7 +16,6 @@ function App() {
 
 <UserMain/>
 
-{/* <AdminMain/>                */}
        </div>
   );
 }
